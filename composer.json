@@ -1,5 +1,5 @@
 {
-    "name": "repat/willdurand-nmap",
+    "name": "guisehn/willdurand-nmap",
     "description": "nmap is a PHP wrapper for Nmap, a free security scanner for network exploration. Updated for PHP 7.1",
     "license": "MIT",
     "authors": [
